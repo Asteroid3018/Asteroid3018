@@ -1,8 +1,6 @@
 # Hi there, I'm Godiva 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" width="350">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Economics+Researcher;Framework-oriented+Learner;Music+Arrangement+%26+Vocal;E-ink+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Framework-oriented+Learner;Music+Arrangement+%26;E-ink+Enthusiast" alt="Typing SVG" /></a>
 
 ### 🛠 Tools & Tech Stack
 <p>
